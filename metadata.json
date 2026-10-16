@@ -1,0 +1,6 @@
+{
+  "name": "EcoSort AI - Smart Recycling & Community Loop",
+  "description": "AI-powered waste sorting, instant home upcycling guides, neighborhood material donation exchanges, EcoCoin coupon rewards, and smart municipal B2B waste logistics.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
